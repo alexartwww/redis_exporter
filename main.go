@@ -25,9 +25,9 @@ var (
 	/*
 		BuildVersion, BuildDate, BuildCommitSha are filled in by the build script
 	*/
-	BuildVersion   = "<<< filled in by build >>>"
-	BuildDate      = "<<< filled in by build >>>"
-	BuildCommitSha = "<<< filled in by build >>>"
+	BuildVersion   = "v1.80.9000"
+	BuildDate      = "2026-01-30"
+	BuildCommitSha = "3980c9100940be154765f115e3a3079ff75b08ea"
 )
 
 func getEnv(key string, defaultVal string) string {
