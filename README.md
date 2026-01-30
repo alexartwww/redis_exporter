@@ -6,28 +6,6 @@
 Prometheus exporter for Valkey metrics (Redis-compatible).\
 Supports Valkey 7.x, 8.x, 9.x (and Redis)
 
-
-```
-
-           ____  _                ___ ____ _____ 
-          / ___|| |_ ___  _ __   |_ _/ ___| ____|
-          \___ \| __/ _ \| '_ \   | | |   |  _|  
-           ___) | || (_) | |_) |  | | |___| |___ 
-          |____/ \__\___/| .__/  |___\____|_____|
-                         |_|                     
-
-           Stop ICE's Attack On Our Communities!
-
-
-```
-
-
-
-#### Ukraine is still suffering from Russian aggression, [please consider supporting Red Cross Ukraine with a donation](https://redcross.org.ua/en/).
-
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
-
-
 ## Building and running the exporter
 
 ### Build and run locally
